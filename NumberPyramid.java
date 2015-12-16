@@ -1,7 +1,5 @@
 /**
  * Created by chris on 12/14/15.
- * Originally a Day 2 Groovy question
- * Now redone in Java (trying out Intellij)
  */
 public class NumberPyramid {
     public static void main(String[] args) {
